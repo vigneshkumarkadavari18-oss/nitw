@@ -20,8 +20,8 @@ These people are called contributers.
 
 ## Why Contribute?
 
-- You lern how real projects are built
-- Recruiters can actualy see your work
+- You learn how real projects are built
+- Recruiters can actually see your work
 - You meet devlopers from all over the world
 - It feels grate when your first PR gets merged
 
@@ -29,9 +29,9 @@ These people are called contributers.
 
 1. Fork this repositery
 2. Clone your fork to your laptop
-3. Create a new brnach called `fix-bug`
+3. Create a new branch called `fix-bug`
 4. Fix one typo in this file
-5. Commit your change with a clear mesage
+5. Commit your change with a clear message
 6. Push the branch to your fork
 7. Open a Pull Request
 
@@ -39,7 +39,7 @@ These people are called contributers.
 
 - Pick an issue from the Issues tab and comment to claim it
 - Fix only one typo per pull request
-- Do not rewrite whole sentances
+- Do not rewrite whole sentence 
 - Be respecful in comments and reviews
 
 ## What Happens Next?
